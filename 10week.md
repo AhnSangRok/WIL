@@ -14,7 +14,7 @@
 ## 참조 링크
 * 내가 참여한 프로젝트
   [DG Times](https://github.com/DG-times)
-* 기술 블로그
+* 기술 블로그   
   [엘라스틱서치의  TF, IDF, FL를 MySQL로 구현할 수 있을까?](https://www.notion.so/TF-IDF-FL-MySQL-25446ce664214504a9713b007d3347be)   
   [MySQL Full-Text Search(전문 검색)](https://www.notion.so/MySQL-Full-Text-Search-d378706e92424854b9dc5932f9f47d2d)   
   [MySQL Replication(복제)](https://www.notion.so/MySQL-Replication-e00769fb8716483bb3da63c69cc5133d)
